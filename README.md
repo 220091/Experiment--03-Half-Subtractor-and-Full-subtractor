@@ -79,6 +79,7 @@ LOGIC GATES
  Truthtable
 
 HALF SUBTRACTOR
+
 ![SUB 1](https://user-images.githubusercontent.com/121572543/211150407-66701961-4c9a-4446-863a-a0c6ada5caeb.png)
 
 
