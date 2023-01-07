@@ -102,11 +102,14 @@ FULL SUBTRACTOR
  
 HALF SUBTRACTOR
 
-![timing diagram1](https://user-images.githubusercontent.com/121572543/211150545-46361478-65d1-45a1-8712-af9e59d3152e.png)
+![111](https://user-images.githubusercontent.com/121572543/211151118-650c23bb-c7f4-4e8f-b69a-cb8247e6a68c.png)
+
+
 
 FULL SUBTRATOR
 
-![timing diagram2](https://user-images.githubusercontent.com/121572543/211150568-370d1414-d301-459e-b08d-2edbc0a78c2f.png)
+
+![222](https://user-images.githubusercontent.com/121572543/211151132-bb919401-2e1b-4d17-a00c-016f2d3b08f9.png)
 
 
  Result:
